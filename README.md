@@ -1,9 +1,8 @@
 
+![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+# Hi there! 👋 I'm Tekleeyesus Munye
 
-# Hi there! 👋 I'm [Your Name]
-
-As a passionate full-stack developer and creative graphic designer, I thrive on turning ideas into functional code and crafting visually captivating designs. Welcome to my GitHub profile! Here's what you'll find:
-
+A passionate and driven a third-year software engineering student at Bahir Dar University with a keen interest in solving basic and core problems.I thrive on the challenge of transforming complex issues into elegant and user-friendly solutions.As a passionate full-stack developer and creative graphic designer, I thrive on turning ideas into functional code and crafting visually captivating designs.
 ## 🚀 Skills and Technologies
 
 ### Full-Stack Development
