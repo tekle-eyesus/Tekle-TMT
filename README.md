@@ -1,13 +1,4 @@
-### Hi there 👋, I'm Tekleeyesus Munye
-![I am GitHub Readme Generator's creator](https://github.com/Tekle-TMT/Tekle-TMT/blob/main/tekleeyesus%20munye.png)
 
-A passionate and driven a third-year software engineering student at Bahir Dar University with a keen interest in solving basic and core problems.I thrive on the challenge of transforming complex issues into elegant and user-friendly solutions.
-##skills and experiances
-Skills:  REACT / JS / HTML / CSS
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tekle-tmt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://tekle-tmt.github.io/my_website/)  
 
 # Hi there! 👋 I'm [Your Name]
 
