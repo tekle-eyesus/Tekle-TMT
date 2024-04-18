@@ -1,5 +1,5 @@
 
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://github.com/Tekle-TMT/Tekle-TMT/blob/main/my-banner.jpg)
 # Hi there! 👋 I'm Tekleeyesus Munye
 
 A passionate and driven a third-year software engineering student at Bahir Dar University with a keen interest in solving basic and core problems.I thrive on the challenge of transforming complex issues into elegant and user-friendly solutions.As a passionate full-stack developer and creative graphic designer, I thrive on turning ideas into functional code and crafting visually captivating designs.
